@@ -5,17 +5,17 @@
 This C++ project implements a simple banking system. It allows users to perform various banking operations such as opening an account, checking balance, depositing, withdrawing, closing an account, and viewing all accounts. The project utilizes object-oriented programming principles and file handling for data persistence.
 
 ### Features :
-- Open Account: Users can open a new bank account by providing their first name, last name, and initial balance.
+- **Open Account**: Users can open a new bank account by providing their first name, last name, and initial balance.
 
-- Balance Enquiry: Users can check the balance of their account by providing the account number.
+- **Balance Enquiry**: Users can check the balance of their account by providing the account number.
 
-- Deposit: Users can deposit a specified amount into their account.
+- **Deposit**: Users can deposit a specified amount into their account.
 
-- Withdrawal: Users can withdraw a specified amount from their account, with a check for minimum balance.
+- **Withdrawal**: Users can withdraw a specified amount from their account, with a check for minimum balance.
 
-- Close Account: Users can close their account, which removes it from the system.
+- **Close Account**: Users can close their account, which removes it from the system.
 
-- Show All Accounts: Displays details of all existing accounts.
+- **Show All Accounts**: Displays details of all existing accounts.
 
 ### Code Structure:
 The project consists of two main classes:
@@ -26,10 +26,10 @@ The project consists of two main classes:
 
 ### Usage :
 1. Compile the code using a C++ compiler.
-  `g++ banking_system.cpp -o banking_system`
+  `g++ BankingSys.cpp -o BankingSys`
 
 2. Run the executable.
-`./banking_system`
+`./BankingSys`
 
 3. Follow the on-screen menu to perform different banking operations.
 
