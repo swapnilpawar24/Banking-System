@@ -1,7 +1,7 @@
 
 Banking System C++ Project
 
-Overview
+Overview : 
 This C++ project implements a simple banking system. It allows users to perform various banking operations such as opening an account, checking balance, depositing, withdrawing, closing an account, and viewing all accounts. The project utilizes object-oriented programming principles and file handling for data persistence.
 
 Features :
@@ -20,9 +20,9 @@ Show All Accounts: Displays details of all existing accounts.
 Code Structure:
 The project consists of two main classes:
 
-Account: Represents a bank account with attributes such as account number, first name, last name, and balance. It includes methods for deposit, withdrawal, and file I/O operations.
+1. Account: Represents a bank account with attributes such as account number, first name, last name, and balance. It includes methods for deposit, withdrawal, and file I/O operations.
 
-Bank: Manages a collection of accounts and provides methods for various banking operations. It reads and writes account data to a file for persistence.
+2. Bank: Manages a collection of accounts and provides methods for various banking operations. It reads and writes account data to a file for persistence.
 
 Usage :
 1. Compile the code using a C++ compiler.
