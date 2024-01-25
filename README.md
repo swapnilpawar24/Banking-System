@@ -25,10 +25,10 @@ The project consists of two main classes:
 2. Bank: Manages a collection of accounts and provides methods for various banking operations. It reads and writes account data to a file for persistence.
 
 ### Usage :
-1. Compile the code using a C++ compiler.
+1. Compile the code using a C++ compiler.<br>
   `g++ BankingSys.cpp -o BankingSys`
 
-2. Run the executable.
+2. Run the executable.<br>
 `./BankingSys`
 
 3. Follow the on-screen menu to perform different banking operations.
