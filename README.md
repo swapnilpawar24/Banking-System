@@ -26,12 +26,12 @@ The project consists of two main classes:
 
 ### Usage :
 1. Compile the code using a C++ compiler.<br>
-  ```bash
-    g++ BankingSys.cpp -o BankingSys
+    ```bash
+       g++ BankingSys.cpp -o BankingSys
 
 2. Run the executable.<br>
-  ```bash
-    ./BankingSys
+    ```bash
+       ./BankingSys
 
 3. Follow the on-screen menu to perform different banking operations.
 
